@@ -1,0 +1,34 @@
+---
+title: "precis"
+author: "Kai Potter"
+date: "10/19/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, message = FALSE, warning=FALSE, error= FALSE, echo = FALSE}
+"I plan on doing my final project on the toxicity of ingredients in black women's hair products. There has been a recent uproar about statistics showing that only 25 percent of the tested products for black women rated at the lowest level of toxicity compared to more than 40 percent of tested products in the general market. This is a huge public health concern and it is only becoming more relevant as the natural hair movement gets more popular over the years as not only a fashion statement, but a political statement. 
+
+In 2017, African-Americans spent $54 million of a total $63 million on ethnic hair and beauty aids, according to data from Nielsen. This is a massive market and companies such as L'Oreal and Johnson & Johnson have committed themselves to buying up small black-owned ethnic hair businesses. However, this recent controversy about the toxicity of products has made black female consumers more wary of where they spend their dollars, and I am personally curious to visualize and present the data shown in the EWG database. They have collected information on 735 different hair products from different brands. I don't have the data yet but I think I will email EWG for the raw dataset or try and scrape the information from the website."
+
+
+
+```
+
+```{r}
+
+```
+
+
+
+
+
+
+
+
+I would like to do my final project on Environmental Working Group SkinDeep Database."
+```
+
