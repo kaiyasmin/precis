@@ -19,7 +19,7 @@ In 2017, African-Americans spent $54 million of a total $63 million on ethnic ha
 ```
 
 ```{r}
-
+x <- read.csv("")
 ```
 
 
@@ -29,6 +29,4 @@ In 2017, African-Americans spent $54 million of a total $63 million on ethnic ha
 
 
 
-I would like to do my final project on Environmental Working Group SkinDeep Database."
-```
 
